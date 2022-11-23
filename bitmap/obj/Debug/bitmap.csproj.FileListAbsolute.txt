@@ -1,0 +1,10 @@
+H:\Görsel programlama\bitmap\bin\Debug\bitmap.exe.config
+H:\Görsel programlama\bitmap\bin\Debug\bitmap.exe
+H:\Görsel programlama\bitmap\bin\Debug\bitmap.pdb
+H:\Görsel programlama\bitmap\obj\Debug\bitmap.csproj.AssemblyReference.cache
+H:\Görsel programlama\bitmap\obj\Debug\bitmap.Form1.resources
+H:\Görsel programlama\bitmap\obj\Debug\bitmap.Properties.Resources.resources
+H:\Görsel programlama\bitmap\obj\Debug\bitmap.csproj.GenerateResource.cache
+H:\Görsel programlama\bitmap\obj\Debug\bitmap.csproj.CoreCompileInputs.cache
+H:\Görsel programlama\bitmap\obj\Debug\bitmap.exe
+H:\Görsel programlama\bitmap\obj\Debug\bitmap.pdb
